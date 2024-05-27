@@ -1,3 +1,4 @@
+// Front-End
 #javaScript
 #React,
 #tailwindCss,
@@ -7,27 +8,29 @@
 #rest-api,
 #redux
 
-// ( MVC)
-#node js
-#express
-#JwT
-//
-mySql or mongodb
-
-// back end
+// back-End ( MVC )
+##SOLUTION2
 #Supabase
 #node js
 #express
-
-//
+// DataBase
 #postgreSql
 
-//
-vs code
-react dev tools
-redux dev tools
-Git
+##SOLUTION2
+#node js
+#express
+#JwT
+// DataBase
+mySql or mongodb
 
-//
+// Tools
+#vs code
+#react dev tools
+#redux dev tools
+#Git
+
+// Testing
+#PostMan = > api
+#vite test or react testing library => components
 
 
